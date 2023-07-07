@@ -52,3 +52,18 @@ h1, h2{
 a{
     text-decoration: none;
 }
+
+.content{
+    max-width: 648px;
+    margin: auto;
+}
+
+p{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.footer{
+    background-color: #333;
+    height: 100px;
+}
